@@ -1,0 +1,35 @@
+﻿Doc: https://developers.google.com/blogger/docs/3.0/using#APIKey
+
+Blog editor:
+https://www.blogger.com/blog/posts/1117224267425045031
+
+Api: AIzaSyDTkkvU3rvOgYgy4IYIW_myguAaKXIjF_M
+
+RusBlogId: 1117224267425045031
+EngBlogId: 7294291513027550745
+
+API:
+Get all posts:
+https://www.googleapis.com/blogger/v3/blogs/1117224267425045031/posts?key=AIzaSyDTkkvU3rvOgYgy4IYIW_myguAaKXIjF_M
+
+Get all pages
+https://www.googleapis.com/blogger/v3/blogs/1117224267425045031/pages?key=AIzaSyDTkkvU3rvOgYgy4IYIW_myguAaKXIjF_M
+
+
+The specific format for Blogger API URIs are:
+https://www.googleapis.com/blogger/v3/users/userId
+https://www.googleapis.com/blogger/v3/users/self
+https://www.googleapis.com/blogger/v3/users/userId/blogs
+https://www.googleapis.com/blogger/v3/users/self/blogs
+https://www.googleapis.com/blogger/v3/blogs/blogId
+https://www.googleapis.com/blogger/v3/blogs/byurl
+https://www.googleapis.com/blogger/v3/blogs/blogId/posts
+https://www.googleapis.com/blogger/v3/blogs/blogId/posts/bypath
+https://www.googleapis.com/blogger/v3/blogs/blogId/posts/search
+https://www.googleapis.com/blogger/v3/blogs/blogId/posts/postId
+https://www.googleapis.com/blogger/v3/blogs/blogId/posts/postId/comments
+https://www.googleapis.com/blogger/v3/blogs/blogId/posts/postId/comments/commentId
+https://www.googleapis.com/blogger/v3/blogs/blogId/pages
+https://www.googleapis.com/blogger/v3/blogs/blogId/pages/pageId
+
+
