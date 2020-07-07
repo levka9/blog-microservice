@@ -34,7 +34,3 @@ https://localhost:44381/api/page/getAll?language=ru
 4. Methos: Get
 https://localhost:44381/api/page/get?language=ru&pageId=1563006982329835026
 
-
-## Database
-
-This events logger use local MsSql database that located in ...\MicroServices\Microservice-EventLogger\EventLogger\LocalDB
